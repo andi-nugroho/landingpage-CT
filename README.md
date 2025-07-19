@@ -1,69 +1,72 @@
-# Welcome to your Lovable project
+# CryptoTrade - Cryptocurrency Trading Platform Landing Page
 
-## Project info
+Welcome to the CryptoTrade project repository, a landing page designed for a cryptocurrency trading platform. This page was created with a focus on a modern, clean, and professional design to build trust and attract user interest.
 
-**URL**: https://lovable.dev/projects/92dc0c12-c831-4ed8-9ab7-0f875920f45d
+[![Deploy with Vercel](https://vercel.com/button)](https://cryptostrade.vercel.app/)
 
-## How can I edit this code?
+**View Live Demo:** [**https://cryptostrade.vercel.app/**](https://cryptostrade.vercel.app/)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## Application Preview
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/92dc0c12-c831-4ed8-9ab7-0f875920f45d) and start prompting.
+<img width="1400" height="804" alt="Macbook-Air-cryptostrade vercel app" src="https://github.com/user-attachments/assets/ad5b9fbe-0dcc-4907-994e-0db244c1b1fe" />
 
-Changes made via Lovable will be committed automatically to this repo.
+## Key Features
 
-**Use your preferred IDE**
+✨ **Modern & Professional Design**: An elegant dark mode theme focused on user experience.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🚀 **Interactive Animations**: Uses *Framer Motion* to provide smooth transitions and animations as users interact with the page.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+📱 **Fully Responsive**: Designed to look perfect on all devices, from wide desktop screens to mobile phones.
 
-Follow these steps:
+🧩 **Component-Based Structure**: Built on React with a clean component architecture, making it easy to manage and scale.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## Tech Stack
 
-# Step 3: Install the necessary dependencies.
-npm i
+This project is built using modern technologies, including:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+-   **Framework**: [React](https://reactjs.org/)
+-   **Build Tool**: [Vite](https://vitejs.dev/)
+-   **Language**: [TypeScript](https://www.typescriptlang.org/)
+-   **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+-   **Animation**: [Framer Motion](https://www.framer.com/motion/)
+-   **Deployment**: [Vercel](https://vercel.com/)
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## How to Run This Project Locally
 
-**Use GitHub Codespaces**
+Follow the steps below to run this project on your local machine.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+1.  **Clone the Repository**
+    ```bash
+    git clone [https://github.com/andi-nugroho/landingpage-CT.git](https://github.com/andi-nugroho/landingpage-CT.git)
+    ```
 
-## What technologies are used for this project?
+2.  **Navigate to the Project Directory**
+    ```bash
+    cd landingpage-CT
+    ```
 
-This project is built with .
+3.  **Install Dependencies**
+    Use `npm` to install all the required packages.
+    ```bash
+    npm install
+    ```
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+4.  **Run the Development Server**
+    This command will run the application in development mode.
+    ```bash
+    npm run dev
+    ```
 
-## How can I deploy this project?
+5.  Open your browser and visit `http://localhost:5173` to see the result.
 
-Simply open [Lovable](https://lovable.dev/projects/92dc0c12-c831-4ed8-9ab7-0f875920f45d) and click on Share -> Publish.
+---
 
-## I want to use a custom domain - is that possible?
+## Author
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Created by **[Andi Nugroho](https://github.com/andi-nugroho)**.
